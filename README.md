@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @georgestav
 - 👀 I’m interested in web🕸, computers💻 and the mountains 🏔
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript & php
 - 💞️ I’m looking to collaborate on anything!
 - 📫 Reach me through github
