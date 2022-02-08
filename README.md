@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @georgestav
 - 👀 I’m interested in web🕸, computers💻 and the mountains 🏔
 - 🌱 I’m currently learning Laravel & React
-- 💞️ I’m looking to collaborate on anything!
+- 💞️ I’m looking to collaborate on interesting and challenging projects!
 - 📫 Reach me through github
