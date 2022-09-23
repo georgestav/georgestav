@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @georgestav
 - 👀 Interested in THE web🕸, computers💻 and the mountains 🏔
 - 🌱 Currently focusing on typed languages diving deep with Typescript on UI and server side, starting out with Java & possibly C#
-- 💞️ Open to collaborate on interesting, user impactfull and challenging projects!
+- 💞️ Open to collaborate on interesting and challenging projects! Could not be more unclear, well pitch me your idea, maybe i can help
 - 📫 Reach me through github or my so many other means of communication laying around, i am not hidding...
